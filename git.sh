@@ -11,5 +11,5 @@ git add  .editorconfig
 git add  .gitattributes
 git add  .gitignore
 git add .yo-rc.json
-git commit -am "pizza project"
+git commit -am "project"
 git push origin master
