@@ -14,4 +14,5 @@ angular.module('adminApp')
     $scope.nombre = "jose carlos";
     // cadena de salida true/false
     $scope.cadena = angular.isString($scope.nombre);
+    
   });

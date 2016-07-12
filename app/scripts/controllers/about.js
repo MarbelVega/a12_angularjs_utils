@@ -20,5 +20,4 @@ angular.module('adminApp')
     };
     $scope.curso='Desarrollo de Aplicaciones Web basadas en AngularJS';
     $scope.tema='Funciones de Utileria de AngularJS';
-
   });

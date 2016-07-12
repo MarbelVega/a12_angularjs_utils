@@ -14,4 +14,5 @@ angular.module('adminApp')
     $scope.minuscula = "jose carlos";
     //mayuscula
     $scope.nombre = angular.uppercase($scope.minuscula);
+    
   });

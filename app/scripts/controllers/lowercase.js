@@ -14,4 +14,5 @@ angular.module('adminApp')
     $scope.mayuscula = "Alexander Karl";
     // variable nombre
     $scope.nombre = angular.lowercase($scope.mayuscula);
+    
   });

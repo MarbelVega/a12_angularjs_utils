@@ -12,5 +12,6 @@ angular.module('adminApp')
     activeMenu('main');
     $scope.curso='Desarrollo de Aplicaciones Web con AngularJS - Funciones de utileria';
     $scope.autor = "Christian Portilla Pauca";
+    
   }
 );

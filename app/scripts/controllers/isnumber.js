@@ -14,4 +14,5 @@ angular.module('adminApp')
     $scope.nombre = parseInt("82462376423781");
     // eavaluador en la variable numero
     $scope.numero = angular.isNumber($scope.nombre);
+    
   });
