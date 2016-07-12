@@ -50,4 +50,14 @@ bower install html5shiv --save
 bower install respondJS --save
 bower install googletagmanager --save
 
+bower install angular-resource --save
+bower install angular-cookies --save
+bower install angular-sanitize --save
+bower install animate.css --save
+bower install angular-animate --save
+bower install angular-touch --save
+bower install angular-route --save
+bower install angular-mocks --save
+bower install angular-scenario --save
+
 find ./ -type d -exec chmod 755 {} \;
